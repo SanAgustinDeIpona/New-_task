@@ -48,6 +48,7 @@ let monthNumber = time.getMonth(),
         tasksFalse.push(...tasksTrue);
 
         task = tasksFalse;
+        localStorage.setItem('task', JSON.stringify(task));
         renderetTask();
     }
 
