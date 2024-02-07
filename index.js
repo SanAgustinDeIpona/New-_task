@@ -40,6 +40,17 @@ let monthNumber = time.getMonth(),
         $listTasks.innerHTML = html;
     }
 
+    const orderTasks = ()=>{
+        let tasksFalse = [], tasksTrue = []; 
+        
+        tasksFalse = task.filter(element =>element.Status === false);
+        tasksTrue = task.filter(element =>element.Status === true);
+        tasksFalse.push(...tasksTrue);
+
+        task = tasksFalse;
+        renderetTask();
+    }
+
     const removeTask = (indexTask)=>{
         if(confirm("Seguro que deseas eliminar la task"))
         {
@@ -74,6 +85,9 @@ let monthNumber = time.getMonth(),
                 localStorage.setItem('task', JSON.stringify(task));
             }
         }
+
+        if(e.target.classList[0] === "container-task-order")
+            orderTasks();
     });
 
     document.addEventListener("dblclick", (e)=>{
