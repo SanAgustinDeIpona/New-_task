@@ -136,7 +136,7 @@ body {
 @media (max-width:320px){
     .container{
         width: 90%;
-        height: 96%;
+        height: 94%;
     }
 
     .container-task{
@@ -161,7 +161,7 @@ body {
         overflow-y: auto;
         overflow-x: hidden;
         height: 63%;
-        height: 76%;
+        height: 74%;
     }
 
     .container-list li{
@@ -173,16 +173,15 @@ body {
 @media only screen and (min-width:320px) and (max-width:480px){
     .container{
         width: 90%;
-        height: 96%;
+        height: 94%;
     }
 
     .container-task{
         display: flex;
-        flex-wrap: wrap;
     }
 
     .container-new-task input{
-        width: 120px;
+        width: 68%;
     }
 
     .container-new-task button{
@@ -197,7 +196,7 @@ body {
         background-color: rgb(223, 235, 235);
         overflow-y: auto;
         overflow-x: hidden;
-        height: 76%;
+        height: 74%;
     }
 
     .container-list li{
@@ -209,7 +208,7 @@ body {
 @media only screen and (min-width:480px) and (max-width:768px){
     .container{
         width: 90%;
-        height: 96%;
+        height: 94%;
     }
 
     .container-task{
@@ -233,7 +232,7 @@ body {
         background-color: rgb(223, 235, 235);
         overflow-y: auto;
         overflow-x: hidden;
-        height: 76%;
+        height: 74%;
     }
 
     .container-list li{
@@ -245,7 +244,7 @@ body {
 @media only screen and (min-width:768px) and (max-width:1024px){
     .container{
         width: 90%;
-        height: 96%;
+        height: 94%;
     }
 
     .container-task{
