@@ -1,0 +1,1114 @@
+{
+  "tiempoLiturgicoActual": [
+    {
+      "id": 1,
+      "pregunta": "¿En cual tiempo liturgico nos encontramos?"
+    },
+    {
+      "id": 2,
+      "option1": "Tiempo Ordinario"
+    },
+    {
+      "id": 3,
+      "option2": "Tiempo de Navidad"
+    },
+    {
+      "id": 4,
+      "option3": "Tiempo de Adviento"
+    },
+    {
+      "id": 5,
+      "option4": "Tiempo de Cuaresma"
+    },
+    {
+      "id": 6,
+      "result": "Tiempo Ordinario"
+    }
+  ],
+  "PartesDeLaSantaMisa": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuantas partes de la santa misa existen?"
+    },
+    {
+      "id": 2,
+      "option1": "2"
+    },
+    {
+      "id": 3,
+      "option2": "5"
+    },
+    {
+      "id": 4,
+      "option3": "3"
+    },
+    {
+      "id": 5,
+      "option4": "4"
+    },
+    {
+      "id": 6,
+      "result": "4"
+    }
+  ],
+  "DuracionDeCuarezma": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuantas semanas dura cuaresma?"
+    },
+    {
+      "id": 2,
+      "option1": "3 Semanas"
+    },
+    {
+      "id": 3,
+      "option2": "7 Semanas"
+    },
+    {
+      "id": 4,
+      "option3": "6 Semanas"
+    },
+    {
+      "id": 5,
+      "option4": "4 Semanas"
+    },
+    {
+      "id": 6,
+      "result": "6 Semanas"
+    }
+  ],
+  "FechaVirgenDelCarmelo": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuando se celebra a nuestra Señora del Carmen?"
+    },
+    {
+      "id": 2,
+      "option1": "El 28 de marzo"
+    },
+    {
+      "id": 3,
+      "option2": "El 16 de junio"
+    },
+    {
+      "id": 4,
+      "option3": "El 16 de julio"
+    },
+    {
+      "id": 5,
+      "option4": "El 12 de noviembre"
+    },
+    {
+      "id": 6,
+      "result": "El 16 de julio"
+    }
+  ],
+  "FechaVirgenDeConcepcion": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuando se celebra a la Virgen de Concepción?"
+    },
+    {
+      "id": 2,
+      "option1": "El 28 de enero"
+    },
+    {
+      "id": 3,
+      "option2": "El 5 de agosto"
+    },
+    {
+      "id": 4,
+      "option3": "El 2 de diciembre"
+    },
+    {
+      "id": 5,
+      "option4": "El 8 de diciembre"
+    },
+    {
+      "id": 6,
+      "result": "El 8 de diciembre"
+    }
+  ],
+  "FechaVirgenDeGuadalupe": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuando se celebra a la Virgen de Guadalupe?"
+    },
+    {
+      "id": 2,
+      "option1": "El 2 de enero"
+    },
+    {
+      "id": 3,
+      "option2": "El 15 de agosto"
+    },
+    {
+      "id": 4,
+      "option3": "El 12 de diciembre"
+    },
+    {
+      "id": 5,
+      "option4": "El 14 de diciembre"
+    },
+    {
+      "id": 6,
+      "result": "El 12 de diciembre"
+    }
+  ],
+  "UsoDelColorRozado": [
+    {
+      "id": 1,
+      "pregunta": "¿Como se llaman los dos dias en el que se utiliza el color rozado?"
+    },
+    {
+      "id": 2,
+      "option1": "Dia de la Paz y dia de la Esperanza"
+    },
+    {
+      "id": 3,
+      "option2": "Dia del amor y dia de la mortificacion"
+    },
+    {
+      "id": 4,
+      "option3": "Laetare y Gaudete"
+    },
+    {
+      "id": 5,
+      "option4": "Ninguna de las anteriores"
+    },
+    {
+      "id": 6,
+      "result": "Laetare y Gaudete"
+    }
+  ],
+  "NumeroDelRozado": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuantas veces se utiliza el color rosado en el año litúrgico?"
+    },
+    {
+      "id": 2,
+      "option1": "5"
+    },
+    {
+      "id": 3,
+      "option2": "1"
+    },
+    {
+      "id": 4,
+      "option3": "8"
+    },
+    {
+      "id": 5,
+      "option4": "2"
+    },
+    {
+      "id": 6,
+      "result": "2"
+    }
+  ],
+  "ColorDePascua": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el color litúrgico utilizado en la Vigilia Pascual y el Domingo de Pascua?"
+    },
+    {
+      "id": 2,
+      "option1": "El color blaco o el dorado"
+    },
+    {
+      "id": 3,
+      "option2": "EL berde"
+    },
+    {
+      "id": 4,
+      "option3": "El rozado"
+    },
+    {
+      "id": 5,
+      "option4": "El negro"
+    },
+    {
+      "id": 6,
+      "result": "El color blaco o el dorado"
+    }
+  ],
+  "InicioDeLaSemanaSanta": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué día conmemora la Iglesia Católica como el inicio de la Semana Santa?"
+    },
+    {
+      "id": 2,
+      "option1": "Domingo de Ramos"
+    },
+    {
+      "id": 3,
+      "option2": "Lunes Santo"
+    },
+    {
+      "id": 4,
+      "option3": "Miercoles de ceniza"
+    },
+    {
+      "id": 5,
+      "option4": "Domingo de Resurrecion"
+    },
+    {
+      "id": 6,
+      "result": "Domingo de Ramos"
+    }
+  ],
+  "AscensionDeJesus": [
+    {
+      "id": 1,
+      "pregunta": "¿En qué temporada litúrgica se celebra la Ascensión de Jesús?"
+    },
+    {
+      "id": 2,
+      "option1": "Navidad"
+    },
+    {
+      "id": 3,
+      "option2": "Tiempo ordinario"
+    },
+    {
+      "id": 4,
+      "option3": "Cuaresma"
+    },
+    {
+      "id": 5,
+      "option4": "Pascua"
+    },
+    {
+      "id": 6,
+      "result": "Pascua"
+    }
+  ],
+  "ColorDeAdviento": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el color litúrgico asociado con la temporada de Adviento?"
+    },
+    {
+      "id": 2,
+      "option1": "Rojo"
+    },
+    {
+      "id": 3,
+      "option2": "Blanco"
+    },
+    {
+      "id": 4,
+      "option3": "Berde"
+    },
+    {
+      "id": 5,
+      "option4": "Morado"
+    },
+    {
+      "id": 6,
+      "result": "Morado"
+    }
+  ],
+  "CuartoDomingoDeCuaresma": [
+    {
+      "id": 1,
+      "pregunta": "¿Como se le llama al cuarto domingo de la cuaresma?"
+    },
+    {
+      "id": 2,
+      "option1": "Domingo de Gaudete"
+    },
+    {
+      "id": 3,
+      "option2": "Domingo Laetare 'Alegrate'"
+    },
+    {
+      "id": 4,
+      "option3": "Domingo Festivo"
+    },
+    {
+      "id": 5,
+      "option4": "Ninguna de las anteriores"
+    },
+    {
+      "id": 6,
+      "result": "Domingo Laetare 'Alegrate'"
+    }
+  ],
+  "BendicionDelCirioPascual": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuando se da la bendición del fuego y se enciende el Cirio Pascual?"
+    },
+    {
+      "id": 2,
+      "option1": "Lunes Santo"
+    },
+    {
+      "id": 3,
+      "option2": "Primera semana de Pascua"
+    },
+    {
+      "id": 4,
+      "option3": "Domingo de Ramos"
+    },
+    {
+      "id": 5,
+      "option4": "Sabado Santo"
+    },
+    {
+      "id": 6,
+      "result": "Sabado Santo"
+    }
+  ],
+  "SemanaMayor": [
+    {
+      "id": 1,
+      "pregunta": "¿Como se le llama a la semana mas importante de la iglesia católica?"
+    },
+    {
+      "id": 2,
+      "option1": "Semana Santa o Semana Mayor"
+    },
+    {
+      "id": 3,
+      "option2": "La gran Semana"
+    },
+    {
+      "id": 4,
+      "option3": "Gloriosa Semana"
+    },
+    {
+      "id": 5,
+      "option4": "La Semana del Jubilo"
+    },
+    {
+      "id": 6,
+      "result": "Semana Santa o Semana Mayor"
+    }
+  ],
+  "FechaDeSantaMariaMadreDeDios": [
+    {
+      "id": 1,
+      "pregunta": "¿Cual es la fecha en la que se celebra a Santa María, Madre de Dios?"
+    },
+    {
+      "id": 2,
+      "option1": "3 de Marzo"
+    },
+    {
+      "id": 3,
+      "option2": "2 de Diciembre"
+    },
+    {
+      "id": 4,
+      "option3": "1 de Enero"
+    },
+    {
+      "id": 5,
+      "option4": "4 de Julio"
+    },
+    {
+      "id": 6,
+      "result": "1 de Enero"
+    }
+  ],
+  "DesnudacionDelAltar": [
+    {
+      "id": 1,
+      "pregunta": "¿Cual es el dia del año en el que se da la denudación de los altares?"
+    },
+    {
+      "id": 2,
+      "option1": "En la fiesta del Sagrado Corazon de Jesús"
+    },
+    {
+      "id": 3,
+      "option2": "El tercer domingo de adviento"
+    },
+    {
+      "id": 4,
+      "option3": "El jueves Santo"
+    },
+    {
+      "id": 5,
+      "option4": "El miercoles de ceniza"
+    },
+    {
+      "id": 6,
+      "result": "El jueves Santo"
+    }
+  ],
+  "NumeroDeMantelesEnELaltar": [
+    {
+      "id": 1,
+      "pregunta": "¿Por que hay 2 manteles en el altar del Sacrificio?"
+    },
+    {
+      "id": 2,
+      "option1": "Para tener el respeto debido"
+    },
+    {
+      "id": 3,
+      "option2": "Para que pueda absorber la sangre de Cristo, en un eventual accidente"
+    },
+    {
+      "id": 4,
+      "option3": "Para preservar mas la madera del altar"
+    },
+    {
+      "id": 5,
+      "option4": "Para simbolizar la altísima Dignidad del Santo Sacrificio"
+    },
+    {
+      "id": 6,
+      "result": "Para que pueda absorber la sangre de Cristo, en un eventual accidente"
+    }
+  ],
+  "DivicionDeLaBiblia": [
+    {
+      "id": 1,
+      "pregunta": "¿Como esta dividia la Santa Biblia?"
+    },
+    {
+      "id": 2,
+      "option1": "50 Libros del antiguo testamento y 23 del nuevo"
+    },
+    {
+      "id": 3,
+      "option2": "40 Libros del antiguo testamento y 33 del nuevo"
+    },
+    {
+      "id": 4,
+      "option3": "46 Libros del antiguo testamento y 27 del nuevo"
+    },
+    {
+      "id": 5,
+      "option4": "45 Libros del antiguo testamento y 28 del nuevo"
+    },
+    {
+      "id": 6,
+      "result": "46 Libros del antiguo testamento y 27 del nuevo"
+    }
+  ],
+  "PrimerLibroDelNuevoTestamento": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el primer libro del Nuevo Testamento?"
+    },
+    {
+      "id": 2,
+      "option1": "Evangelio segun San Marcos"
+    },
+    {
+      "id": 3,
+      "option2": "Evangelio segun San Benjamín"
+    },
+    {
+      "id": 4,
+      "option3": "Evangelio segun San Juan"
+    },
+    {
+      "id": 5,
+      "option4": "Evangelio segun San Mateo"
+    },
+    {
+      "id": 6,
+      "result": "Evangelio segun San Mateo"
+    }
+  ],
+  "CreacionDeLaBiblia": [
+    {
+      "id": 1,
+      "pregunta": "¿Como se llama el Santo que realizo la traducción  de los textos originales de la biblia en hebreo y griego?"
+    },
+    {
+      "id": 2,
+      "option1": "San Absalón"
+    },
+    {
+      "id": 3,
+      "option2": "San Benjamín"
+    },
+    {
+      "id": 4,
+      "option3": "San Esteban"
+    },
+    {
+      "id": 5,
+      "option4": "San Jeronimo"
+    },
+    {
+      "id": 6,
+      "result": "San Jeronimo"
+    }
+  ],
+  "LibrosDeLaBiblia": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuántos libros tiene el Antiguo Testamento en la Biblia Católica?"
+    },
+    {
+      "id": 2,
+      "option1": "39"
+    },
+    {
+      "id": 3,
+      "option2": "27"
+    },
+    {
+      "id": 4,
+      "option3": "46"
+    },
+    {
+      "id": 5,
+      "option4": "66"
+    },
+    {
+      "id": 6,
+      "result": "46"
+    }
+  ],
+  "ParabolasDelSembrador": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la parábola en la que un hombre siembra semillas en diferentes tipos de suelo?"
+    },
+    {
+      "id": 2,
+      "option1": "Parábola del Buen Samaritano"
+    },
+    {
+      "id": 3,
+      "option2": "Parábola del Hijo Pródigo"
+    },
+    {
+      "id": 4,
+      "option3": "Parábola del Sembrador"
+    },
+    {
+      "id": 5,
+      "option4": "Parábola de la Oveja Perdida"
+    },
+    {
+      "id": 6,
+      "result": "Parábola del Sembrador"
+    }
+  ],
+  "ConstruccionDelTemploDeJerusalen": [
+    {
+      "id": 1,
+      "pregunta": "¿Quién fue el rey que construyó el primer templo de Jerusalén?"
+    },
+    {
+      "id": 2,
+      "option1": "Rey David"
+    },
+    {
+      "id": 3,
+      "option2": "Rey Salomón"
+    },
+    {
+      "id": 4,
+      "option3": "Rey Ahab"
+    },
+    {
+      "id": 5,
+      "option4": "Rey Josías"
+    },
+    {
+      "id": 6,
+      "result": "Rey Salomón"
+    }
+  ],
+  "PrimerMilagroDeJesus": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál fue el primer milagro de Jesús según el Evangelio de Juan?"
+    },
+    {
+      "id": 2,
+      "option1": "La resurrección de Lázaro"
+    },
+    {
+      "id": 3,
+      "option2": "La multiplicación de los panes y los peces"
+    },
+    {
+      "id": 4,
+      "option3": "La conversión del agua en vino"
+    },
+    {
+      "id": 5,
+      "option4": "La curación del ciego de nacimiento"
+    },
+    {
+      "id": 6,
+      "result": "La conversión del agua en vino"
+    }
+  ],
+  "ProfetasDelAntiguoExodo": [
+    {
+      "id": 1,
+      "pregunta": "¿Quién es conocido como el profeta del éxodo?"
+    },
+    {
+      "id": 2,
+      "option1": "Isaías"
+    },
+    {
+      "id": 3,
+      "option2": "Jeremías"
+    },
+    {
+      "id": 4,
+      "option3": "Ezequiel"
+    },
+    {
+      "id": 5,
+      "option4": "Moisés"
+    },
+    {
+      "id": 6,
+      "result": "Moisés"
+    }
+  ],
+  "PrimerReyeDeIsrael": [
+    {
+      "id": 1,
+      "pregunta": "¿Quién fue el primer rey de Israel según la Biblia?"
+    },
+    {
+      "id": 2,
+      "option1": "David"
+    },
+    {
+      "id": 3,
+      "option2": "Salomón"
+    },
+    {
+      "id": 4,
+      "option3": "Saúl"
+    },
+    {
+      "id": 5,
+      "option4": "Josías"
+    },
+    {
+      "id": 6,
+      "result": "Saúl"
+    }
+  ],
+  "SermonDeLaMontaña": [
+    {
+      "id": 1,
+      "pregunta": "¿Dónde tuvo lugar el Sermón de la Montaña?"
+    },
+    {
+      "id": 2,
+      "option1": "En Jerusalén"
+    },
+    {
+      "id": 3,
+      "option2": "En Belén"
+    },
+    {
+      "id": 4,
+      "option3": "En Galilea"
+    },
+    {
+      "id": 5,
+      "option4": "En Nazaret"
+    },
+    {
+      "id": 6,
+      "result": "En Galilea"
+    }
+  ],
+  "UltimoLibroDeLaBiblia": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el último libro del Nuevo Testamento?"
+    },
+    {
+      "id": 2,
+      "option1": "Hechos de los Apóstoles"
+    },
+    {
+      "id": 3,
+      "option2": "Apocalipsis"
+    },
+    {
+      "id": 4,
+      "option3": "Epístola a los Hebreos"
+    },
+    {
+      "id": 5,
+      "option4": "Epístola a los Romanos"
+    },
+    {
+      "id": 6,
+      "result": "Apocalipsis"
+    }
+  ],
+  "DisipuloAmado": [
+    {
+      "id": 1,
+      "pregunta": "¿Quién era el discípulo a quien Jesús amaba según el Evangelio de Juan?"
+    },
+    {
+      "id": 2,
+      "option1": "Pedro"
+    },
+    {
+      "id": 3,
+      "option2": "Juan"
+    },
+    {
+      "id": 4,
+      "option3": "Mateo"
+    },
+    {
+      "id": 5,
+      "option4": "Judas"
+    },
+    {
+      "id": 6,
+      "result": "Juan"
+    }
+  ],
+  "SeparacionDelMarRojo": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué líder bíblico separó el Mar Rojo?"
+    },
+    {
+      "id": 2,
+      "option1": "Noé"
+    },
+    {
+      "id": 3,
+      "option2": "Abraham"
+    },
+    {
+      "id": 4,
+      "option3": "Moisés"
+    },
+    {
+      "id": 5,
+      "option4": "Josué"
+    },
+    {
+      "id": 6,
+      "result": "Moisés"
+    }
+  ],
+  "ParabolaDelTesoro": [
+    {
+      "id": 1,
+      "pregunta": "¿En qué parábola un hombre encuentra un tesoro escondido en un campo?"
+    },
+    {
+      "id": 2,
+      "option1": "Parábola del Sembrador"
+    },
+    {
+      "id": 3,
+      "option2": "Parábola del Tesoro Escondido"
+    },
+    {
+      "id": 4,
+      "option3": "Parábola del Hijo Pródigo"
+    },
+    {
+      "id": 5,
+      "option4": "Parábola de la Oveja Perdida"
+    },
+    {
+      "id": 6,
+      "result": "Parábola del Tesoro Escondido"
+    }
+  ],
+  "Los10Mandamientos": [
+    {
+      "id": 1,
+      "pregunta": "¿Dónde recibió Moisés los Diez Mandamientos?"
+    },
+    {
+      "id": 2,
+      "option1": "Monte Nebo"
+    },
+    {
+      "id": 3,
+      "option2": "Monte Sinaí"
+    },
+    {
+      "id": 4,
+      "option3": "Monte Carmelo"
+    },
+    {
+      "id": 5,
+      "option4": "Monte Moriah"
+    },
+    {
+      "id": 6,
+      "result": "Monte Sinaí"
+    }
+  ],
+  "ProfetaMasMencionadoNT": [
+    {
+      "id": 1,
+      "pregunta": "¿Quién es el profeta más mencionado en el Nuevo Testamento?"
+    },
+    {
+      "id": 2,
+      "option1": "Isaías"
+    },
+    {
+      "id": 3,
+      "option2": "Jeremías"
+    },
+    {
+      "id": 4,
+      "option3": "Ezequiel"
+    },
+    {
+      "id": 5,
+      "option4": "Daniel"
+    },
+    {
+      "id": 6,
+      "result": "Isaías"
+    }
+  ],
+  "TiempoDeAdviento": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuántas semanas dura el tiempo de Adviento?"
+    },
+    {
+      "id": 2,
+      "option1": "2 semanas"
+    },
+    {
+      "id": 3,
+      "option2": "3 semanas"
+    },
+    {
+      "id": 4,
+      "option3": "4 semanas"
+    },
+    {
+      "id": 5,
+      "option4": "5 semanas"
+    },
+    {
+      "id": 6,
+      "result": "4 semanas"
+    }
+  ],
+  "TiempoDeCuaresma": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuántos días dura la Cuaresma?"
+    },
+    {
+      "id": 2,
+      "option1": "30 días"
+    },
+    {
+      "id": 3,
+      "option2": "40 días"
+    },
+    {
+      "id": 4,
+      "option3": "50 días"
+    },
+    {
+      "id": 5,
+      "option4": "60 días"
+    },
+    {
+      "id": 6,
+      "result": "40 días"
+    }
+  ],
+  "TiempoPascual": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué celebramos durante el tiempo Pascual?"
+    },
+    {
+      "id": 2,
+      "option1": "El nacimiento de Jesús"
+    },
+    {
+      "id": 3,
+      "option2": "La resurrección de Jesús"
+    },
+    {
+      "id": 4,
+      "option3": "La Ascensión de Jesús"
+    },
+    {
+      "id": 5,
+      "option4": "La Anunciación a María"
+    },
+    {
+      "id": 6,
+      "result": "La resurrección de Jesús"
+    }
+  ],
+  "CominesoDeNavidad": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué día comienza oficialmente el tiempo de Navidad en el calendario litúrgico?"
+    },
+    {
+      "id": 2,
+      "option1": "24 de diciembre"
+    },
+    {
+      "id": 3,
+      "option2": "25 de diciembre"
+    },
+    {
+      "id": 4,
+      "option3": "26 de diciembre"
+    },
+    {
+      "id": 5,
+      "option4": "1 de enero"
+    },
+    {
+      "id": 6,
+      "result": "25 de diciembre"
+    }
+  ],
+  "ColorLiturgicoDePentecostes": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el color litúrgico asociado con Pentecostés?"
+    },
+    {
+      "id": 2,
+      "option1": "Verde"
+    },
+    {
+      "id": 3,
+      "option2": "Morado"
+    },
+    {
+      "id": 4,
+      "option3": "Rojo"
+    },
+    {
+      "id": 5,
+      "option4": "Blanco"
+    },
+    {
+      "id": 6,
+      "result": "Rojo"
+    }
+  ],
+  "SignificadoDelTiempoOrdinario": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué se celebra durante el tiempo ordinario en el calendario litúrgico?"
+    },
+    {
+      "id": 2,
+      "option1": "La vida pública de Jesús"
+    },
+    {
+      "id": 3,
+      "option2": "La Pasión de Cristo"
+    },
+    {
+      "id": 4,
+      "option3": "El nacimiento de Jesús"
+    },
+    {
+      "id": 5,
+      "option4": "La resurrección de Jesús"
+    },
+    {
+      "id": 6,
+      "result": "La vida pública de Jesús"
+    }
+  ],
+  "DuracionDelTiempoPascual": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuántos días dura el tiempo Pascual?"
+    },
+    {
+      "id": 2,
+      "option1": "40 días"
+    },
+    {
+      "id": 3,
+      "option2": "50 días"
+    },
+    {
+      "id": 4,
+      "option3": "60 días"
+    },
+    {
+      "id": 5,
+      "option4": "70 días"
+    },
+    {
+      "id": 6,
+      "result": "50 días"
+    }
+  ],
+  "SignificadoDelTiempoDeCuaresma": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué se conmemora durante la Cuaresma?"
+    },
+    {
+      "id": 2,
+      "option1": "El nacimiento de Jesús"
+    },
+    {
+      "id": 3,
+      "option2": "La vida pública de Jesús"
+    },
+    {
+      "id": 4,
+      "option3": "La Pasión de Cristo"
+    },
+    {
+      "id": 5,
+      "option4": "La resurrección de Jesús"
+    },
+    {
+      "id": 6,
+      "result": "La Pasión de Cristo"
+    }
+  ],
+  "Jugadores": [
+    {
+      "name": "JOSE",
+      "puntos": 7,
+      "img": "/practicas con js/03-Monaguillos/App/asset/foto-mia-3.jpg",
+      "id": 1
+    },
+    {
+      "name": "LIDIA",
+      "puntos": 5,
+      "img": "/practicas con js/03-Monaguillos/App/asset/lidia.jpg",
+      "id": 2
+    },
+    {
+      "name": "MAMA",
+      "puntos": 6,
+      "img": "/practicas con js/03-Monaguillos/App/asset/mama.jpg",
+      "id": 4
+    }
+  ]
+}
