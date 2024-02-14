@@ -12,7 +12,7 @@ body {
     width: 100%;
     overflow-y: hidden;
 }
-
+ 
 .container{
     width: 30%;
     background-color: var(--background-primary);
@@ -69,10 +69,19 @@ body {
     display: flex;
     justify-content: space-between;
     padding-top: 4%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.container-new-task{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .container-new-task input{
-    width: 220px;
+    width: 50%;
     height: 35px;
     padding-left: 12px;
     border-radius: 5px;
@@ -80,19 +89,18 @@ body {
     border: none;
 }
 
-.container-new-task button{
+.container-new-task .submit{
     width: 35px;
     height: 35px;
     border-radius: 50%;
     border: 0px;
     font-size: 25px;
     font-weight: 900;
-    margin-left: 9px;
     cursor: pointer;
 }
 
 .container-task-order{
-    width: 24%;
+    width: 30%;
     height: 35px;
     border: none;
     background-color: rgb(235, 2, 2);
@@ -140,19 +148,6 @@ body {
         height: 91%;
     }
 
-    .container-task{
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    .container-new-task input{
-        width: 120px;
-    }
-
-    .container-new-task button{
-        margin-left: 4px;
-    }
-
     .container-task-order{
         font-size: 13px;
     }
@@ -174,19 +169,11 @@ body {
 @media only screen and (min-width:320px) and (max-width:480px){
     .container{
         width: 90%;
-        height: 87%;
-    }
-
-    .container-task{
-        display: flex;
+        min-height: 87%;
     }
 
     .container-new-task input{
-        width: 68%;
-    }
-
-    .container-new-task button{
-        margin-left: 4px;
+        width: 50%;
     }
 
     .container-task-order{
@@ -212,16 +199,11 @@ body {
         height: 94%;
     }
 
-    .container-task{
-        display: flex;
-        flex-wrap: wrap;
-    }
-
     .container-new-task input{
-        width: 320px;
+        width: 50%;
     }
 
-    .container-new-task button{
+    .container-new-task .submit{
         margin-left: 4px;
     }
 
@@ -248,16 +230,11 @@ body {
         height: 94%;
     }
 
-    .container-task{
-        display: flex;
-        flex-wrap: wrap;
-    }
-
     .container-new-task input{
-        width: 350px;
+        width: 50%;
     }
 
-    .container-new-task button{
+    .container-new-task .submit{
         margin-left: 4px;
     }
 
@@ -269,7 +246,7 @@ body {
         background-color: rgb(223, 235, 235);
         overflow-y: auto;
         overflow-x: hidden;
-        height: 76%;
+        height: 74%;
     }
 
     .container-list li{

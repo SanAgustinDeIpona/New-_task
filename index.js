@@ -32,7 +32,7 @@ let monthNumber = time.getMonth(),
 
         task.forEach((element, index)=>{
             if(element.Status === false)
-            html += `<li class="active" data-task="${index }">${element.Name}</li>`;
+            html += `<li class="active" data-task="${index}">${element.Name}</li>`;
             else
             html += `<li class="inactive" data-task="${index}">${element.Name}</li>`;
         });
@@ -55,7 +55,12 @@ let monthNumber = time.getMonth(),
     const removeTask = (indexTask)=>{
         if(confirm("Seguro que deseas eliminar la task"))
         {
-            task.pop(indexTask);
+            //apunto con el indexTask a la posicion del elemento a eliminar y luego a partir
+            //de ese elemento cuantos quiero eliminar, en este caso solo 1
+            task.splice(indexTask, 1);
+            console.log(task);
+            localStorage.setItem('task', JSON.stringify(task));
+            renderetTask();
         }
     }
 
@@ -87,12 +92,15 @@ let monthNumber = time.getMonth(),
             }
         }
 
-        if(e.target.classList[0] === "container-task-order")
+        if(e.target.classList[0] === "container-task-order"){
+            console.log("hola");
             orderTasks();
+        }
     });
 
     document.addEventListener("dblclick", (e)=>{
         if(e.target.hasAttribute("data-task")){
+            console.log(e.target.getAttribute("data-task"));
             removeTask(e.target.getAttribute("data-task"));
             renderetTask();
         }
